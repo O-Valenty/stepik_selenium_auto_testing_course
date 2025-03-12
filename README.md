@@ -3,4 +3,3 @@
 
 Stepik course link = 'https://stepik.org/course/575/syllabus'
 
-новая строка
