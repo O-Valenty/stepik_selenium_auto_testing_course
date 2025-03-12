@@ -1,4 +1,4 @@
 # stepik_selenium_auto_testing_course
-Selenium Python Auto Testing Course Practical Exercises
+Проект для хранения практических заданий по курсу "Автоматизация тестирования с помощью Selenium и Python"
 
 Stepik course link = 'https://stepik.org/course/575/syllabus'
