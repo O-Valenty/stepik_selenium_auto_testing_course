@@ -13,6 +13,7 @@ try:
     browser = webdriver.Chrome()
     browser.get(link)
     price = browser.find_element(By.ID, 'price')
+    # Waiting element get target value
     target_price = WebDriverWait(browser, 15).until(EC.text_to_be_present_in_element((By.ID, 'price'), '100'))
     book_button = browser.find_element(By.ID, 'book')
     book_button.click()
