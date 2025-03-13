@@ -4,7 +4,7 @@ import time
 import os
 
 current_dir = os.path.abspath(os.path.dirname(__file__))
-file_name = 'test.txt'
+file_name = 'step8_test.txt'
 file_path = os.path.join(current_dir, file_name)
 
 try:
