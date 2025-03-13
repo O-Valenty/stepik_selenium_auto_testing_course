@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+# тест из \chapter_1\lesson_6\step10_successful_registration_practice.py
 class TestRegistration(unittest.TestCase):
     def test_registration_success(self):
         try:

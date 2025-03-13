@@ -28,3 +28,4 @@ class TestAbs(unittest.TestCase):
 if __name__ == "__main__":
     # unittest.main() находит все тестовые функции (test_*) и запускает их.
     unittest.main()
+    
