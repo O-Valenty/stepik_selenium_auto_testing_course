@@ -5,14 +5,10 @@ __[Stepik course link](https://stepik.org/course/575/syllabus "Перейти н
 
 ---
 ### Начало работы:
-1. Создайте виртуальное окружение
-<python -m venv environment_name>
-2. Активируйте виртуальное окружение[^2]
-<environment_name\Script\activate>
-3. Установите requirements.txt[^3]
-<pip install -r requirements.txt>
-4. Чтобы выйти из виртуального окружения, выполните команду
-<deactivate>
+1. Создайте виртуальное окружение: `python -m venv environment_name`
+2. Активируйте виртуальное окружение[^2]: `environment_name\Script\activate`
+3. Установите requirements.txt[^3]: `pip install -r requirements.txt`
+4. Чтобы выйти из виртуального окружения, выполните команду: `deactivate`
 
 
 
